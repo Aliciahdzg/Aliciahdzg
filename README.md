@@ -17,6 +17,11 @@
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Aliciahdzg)](https://github.com/Aliciahdzg) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliciahdzg&layout=compact)](https://github.com/Aliciahdzg/github-readme-stats)
+
+### Stats
+
+[![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliciahdzg&show_icons=true&theme=vue-dark)](https://github.com/Aliciahdzg/github-readme-stats)
 
 <!--
 **Aliciahdzg/Aliciahdzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
